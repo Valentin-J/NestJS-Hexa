@@ -1,0 +1,26 @@
+[
+    {
+        "name": "no-passengers-ship",
+        "capacity": 0
+    },
+    {
+        "name": "xs",
+        "capacity": 10
+    },
+    {
+        "name": "s",
+        "capacity": 50
+    },
+    {
+        "name": "m",
+        "capacity": 200
+    },
+    {
+        "name": "l",
+        "capacity": 800
+    },
+    {
+        "name": "xl",
+        "capacity": 2000
+    }
+]
